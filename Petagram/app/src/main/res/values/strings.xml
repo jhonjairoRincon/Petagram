@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Petagram</string>
-    <string name="app_btn">Saber Mas</string>
+    <string name="app_btn">Click</string>
+    <string name="app_mensajeFab">Favorito</string>
+    <string name="texto_accion">Accion</string>
+    <string-array name="Planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+
+    </string-array>
+
 </resources>
